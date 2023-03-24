@@ -35,6 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+![TipCalculator](https://user-images.githubusercontent.com/123886642/227611004-05d1ffdd-bf52-4cdc-8ce9-baa5f8de4799.gif)
 
 
 GIF created with **ScreenToGif**
