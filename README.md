@@ -27,16 +27,17 @@ The following STRETCH features are implemented:
 - [x] Implement ViewBinding to reduce boilerplate code and increase efficiency
 - [x] Add at least one (1) additional functionality
 
-The following EXTRA features are implemented:
+## Updated Version
+Here's a screenshot with recent UI updates implemented:
 
-- [ ] List anything else that you added to improve the app!
+<img src="https://user-images.githubusercontent.com/123886642/230952777-5e659660-6bf9-49d4-b08a-6548d43e7134.png" width=30% height=30%>
+
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![TipCalculator](https://user-images.githubusercontent.com/123886642/227611004-05d1ffdd-bf52-4cdc-8ce9-baa5f8de4799.gif)
-
+<img src="https://user-images.githubusercontent.com/123886642/227611004-05d1ffdd-bf52-4cdc-8ce9-baa5f8de4799.gif" width=30% height = 30%>
 
 GIF created with **ScreenToGif**
 
